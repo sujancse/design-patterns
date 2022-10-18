@@ -1,0 +1,17 @@
+{
+    "name": "sujan/design-patterns",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sujan Mahmud",
+            "email": "sujancseruet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src"
+        }
+    }
+}
